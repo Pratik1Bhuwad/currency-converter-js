@@ -16,7 +16,7 @@ Fetches live exchange rates using an API
 ## 📸 Project Demo  
 ![Project Screenshot](js_P1.PNG)  
 
-🎥 Check out the live demo: **[https://github.com/Pratik1Bhuwad/currency-converter-js/blob/22d5c6148d1ef7d2dc8fd381a3ad0a88aa58fcce/js_Project1.mp4]**  
+🎥 Check out the live demo: **[js_Project1.mp4]**  
 
 ## ⚙ How to Use  
 1. Clone this repository:  
