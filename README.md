@@ -14,7 +14,7 @@ Fetches live exchange rates using an API
 - **JavaScript**: Logic for currency conversion & API handling  
 
 ## 📸 Project Demo  
-js_P1.PNG
+[js_P1.PNG](https://github.com/Pratik1Bhuwad/currency-converter-js/blob/main/js_P1.PNG)
 
 🎥 Check out the live demo: **[Add Link Here]**  
 
